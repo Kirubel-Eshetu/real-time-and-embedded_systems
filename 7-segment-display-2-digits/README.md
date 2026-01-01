@@ -14,7 +14,7 @@ This HEX file is very improtant for the simulation to function as it serve as an
 
 :) On the image below you may find the Simulation of 0 to 99 counter:
 
-![HTML Image](https://github.com/Kirubel-Eshetu/media-repo/blob/main/0to99-counter.png)
+![HTML Image](https://github.com/Kirubel-Eshetu/real-time-and-embedded_systems/blob/main/7-segment-display-2-digits/0-to-99-counter.png)
 
 ## Where to apply the program?
 - This counter can be practically used for the change of Traffic light from one light to another. For instance to change the light from Green to red we can use the counter by setting the countdown to a favourable number.

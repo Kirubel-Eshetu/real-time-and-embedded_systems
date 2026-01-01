@@ -12,6 +12,6 @@ Open the "Multiple_Traffic.uvproj" project file using Keli uVision5 IDE (or your
 
 :) On the image below, you can find the simulation image of Multiple Traffic Signal program.
 
-![HTML Image](https://github.com/Kirubel-Eshetu/media-repo/blob/main/multiple-traffic.png)
+![HTML Image](https://github.com/Kirubel-Eshetu/real-time-and-embedded_systems/blob/main/Multiple-traffic-signal/multiple-traffic.png)
 ## Where to apply the program?
 This traffic lights simulation can be practically used for controlling traffic flow on corss-roads.
